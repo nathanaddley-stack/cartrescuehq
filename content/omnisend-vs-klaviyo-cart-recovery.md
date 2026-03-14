@@ -1,10 +1,8 @@
 ---
-
 title: "Omnisend vs Klaviyo for Cart Recovery"
 description: "Compare Omnisend and Klaviyo for Shopify abandoned cart recovery."
 slug: "omnisend-vs-klaviyo-cart-recovery"
 template: "compare"
-
 ---
 
 Omnisend vs Klaviyo for Shopify Cart Recovery
