@@ -1,10 +1,8 @@
 ---
-
 title: "Gorgias vs Re:amaze for Shopify Stores"
 description: "Side-by-side comparison of two Shopify helpdesk platforms."
 slug: "gorgias-vs-reamaze-small-stores"
 template: "compare"
-
 ---
 
 Gorgias vs Re:amaze for Shopify (Small Stores)
