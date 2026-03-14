@@ -1,10 +1,8 @@
 ---
-
 title: "Best AI Chatbots for Shopify Support"
 description: "Compare AI chatbots that automate Shopify customer service."
 slug: "best-ai-chatbots-shopify-support"
 template: "list"
-
 ---
 
 Best AI Chatbots for Shopify Customer Service
