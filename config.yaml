@@ -1,6 +1,7 @@
-baseURL: "https://www.cartrescuehq.io (https://www.cartrescuehq.io/)"
+baseURL: "https://www.cartrescuehq.io/"
 languageCode: "en-us"
 title: "CartRescueHQ"
 theme: "netlify-basic"
+
 permalinks:
-posts: "/:slug/"
+  posts: "/:slug/"
