@@ -1,4 +1,6 @@
-baseURL: "http://hugo-quickstart-template.netlify.com"
+baseURL:  "https://www.cartrescuehq.io"
 languageCode: "en-us"
-title: "Netlify + Hugo Quickstart"
+title: "CartRescueHQ"
 theme: "netlify-basic"
+permalinks:
+  posts: "/:slug/
