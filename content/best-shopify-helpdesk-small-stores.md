@@ -1,10 +1,10 @@
 ---
-
 title: "Best Shopify Helpdesk for Small Stores"
 description: "Compare Shopify helpdesk tools for stores handling ≤500 tickets/month."
 slug: "best-shopify-helpdesk-small-stores"
 template: "list"
 ---
+
 Best Shopify Helpdesk for Small Stores (≤500 tickets/month)
 
 Small Shopify stores handling under 500 support tickets per month need simple tools that integrate deeply with Shopify orders. The best options provide automation, order visibility inside tickets, and affordable pricing tiers.
